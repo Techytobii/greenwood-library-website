@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Greenwood-library-website
 
 ## This is a breakdown of how I created my greenwood-library-website repository
@@ -49,3 +50,6 @@ I created a folder named greenwood also and created the html files in them immed
  ![jamie's-push](./img/update-events-pushh.png)
 
 afterwards i went on my github to pull request and merge changes to complete my project.
+=======
+# GREENWOOD-LIBRARY-WEBSITE
+>>>>>>> fc331d91019204fec0279a9c52c2dce0e79b8fc8
