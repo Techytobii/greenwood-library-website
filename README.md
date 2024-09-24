@@ -32,4 +32,20 @@ I created a folder named greenwood also and created the html files in them immed
 
 # Then i crteated and switched to branch add-book-reviews
 
+![add-book-reviews](./img/add-book-reviewhtml.png)
+ then added a random content 
+ ![content](./img/morgan-add-book-reviews.png)
 
+ I added correction to git and commit new changes afterwards i pushed to main origin for pull request 
+
+ ![push](./img/add-book-reviews-push.png)
+
+ ## Jamie's Work: Updating Events Page
+
+ ![updated-events](./img/update-events-jamie.png)
+
+ afterwards i pushed Jamie's work to naib origin
+
+ ![jamie's-push](./img/update-events-pushh.png)
+
+afterwards i went on my github to pull request and merge changes to complete my project.
